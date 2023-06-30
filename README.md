@@ -1,2 +1,1 @@
-# jubilant-computing-machine
-Repositorio de prueba del modulo2 de Henry
+Esta es una prueba de como crear un repositorio y clonarlo desde github a mi pc.
